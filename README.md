@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Anveshan Club | NIE College</title>
     <link rel="stylesheet" href="anveshan.css">
-    <style>
+<style>
         * {
     margin: 0;
     padding: 0;
